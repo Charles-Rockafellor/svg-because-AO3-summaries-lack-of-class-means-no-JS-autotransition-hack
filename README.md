@@ -23,6 +23,6 @@ upload that .svg (and maybe your .txt) to your repo,
 test to see if your .svg is functioning properly (by going to something like https://raw.githubusercontent.com/Charles-Rockafellor/svg-because-AO3-summaries-lack-of-class-means-no-JS-autotransition-hack/main/svg-sentence-swapping-ad-aeternum.svg, except with your own profile, repo, and file name in the URL's subdirectories),
 </li>
 <li>
-then drop the following HTML (as an example) into your summary's edit field, wherever you want the eternally-alternating sentences to go: <b>&lt;img src="</b>b>https://raw.githubusercontent.com/Charles-Rockafellor/svg-because-AO3-summaries-lack-of-class-means-no-JS-autotransition-hack/main/svg-sentence-swapping-ad-aeternum.svg<b>"&gt;</b>b>
+then drop the following HTML (as an example) into your summary's edit field, wherever you want the eternally-alternating sentences to go: <b>&lt;img src="</b>https://raw.githubusercontent.com/Charles-Rockafellor/svg-because-AO3-summaries-lack-of-class-means-no-JS-autotransition-hack/main/svg-sentence-swapping-ad-aeternum.svg<b>"&gt;</b>
 </li>
 </ol>
